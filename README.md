@@ -1,4 +1,4 @@
-Note: Main Branch is the initial form of the project while the master branch is the finished and debugged verision
+Note: THIS IS A LEARNING PROJECT !
 
 Project Description:
   During my second year I was tasked with writing a simple implementation of a binary search tree in my Data Structures course ,
