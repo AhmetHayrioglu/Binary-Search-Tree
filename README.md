@@ -1,4 +1,4 @@
-Note: THIS IS A LEARNING PROJECT !
+Note: THIS IS A LEARNING PROJECT ! , this was my project for a Data Structures course 
 
 Project Description:
   During my second year I was tasked with writing a simple implementation of a binary search tree in my Data Structures course ,
