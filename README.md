@@ -1,7 +1,7 @@
 Note: Main Branch is the initial form of the project while the master branch is the finished and debugged verision
 
 Project Description:
-  During my second year I was tasked with writing a simple implementation during my Data Structures course ,
+  During my second year I was tasked with writing a simple implementation of a binary search tree in my Data Structures course ,
   here is the project description and instructions :
   
 1) You are to write a class named BST, representing a Binary Search Tree. This tree is composed of nodes that are 
