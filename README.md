@@ -4,7 +4,8 @@ Project Description:
   During my second year I was tasked with writing a simple implementation of a binary search tree in my Data Structures course ,
   here is the project description and instructions :
 
-  **I have re-implemented the project with focus on readability, clean code, and maintainability : https://github.com/AhmetHayrioglu/Binary_Search_Tree_2 **
+I have re-implemented the project with focus on readability, clean code, and maintainability. Here is the link : https://github.com/AhmetHayrioglu/Binary_Search_Tree_2 
+
 1) You are to write a class named BST, representing a Binary Search Tree. This tree is composed of nodes that are 
 represented by the class TreeNode. The TreeNode class must have a data field, which is an integer. You may 
 assume that this integer is in the range [0,99].
